@@ -1,0 +1,7 @@
+! ->emmet abbreviation
+alt+uper ker-> to move the lines
+<h1> this is a heading Dharmendra is chodu </h1>  -->> Element
+<h1>  /h1>   -->> html tags
+alt+mouse left click -->cursor duplicate itself 
+attributes always-->> inside a openinig tags
+&nbsp->create one space
